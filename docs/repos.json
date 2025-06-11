@@ -1,0 +1,19 @@
+{
+  "canonical_url": "https://remember.thefoldwithin.earth/mrhavens/vitae.thefoldwithin.earth",
+  "mirrors": [
+    "https://github.com/mrhavens/vitae.thefoldwithin.earth",
+    "https://gitlab.com/mrhavens/vitae.thefoldwithin.earth",
+    "https://bitbucket.org/thefoldwithin/vitae.thefoldwithin.earth",
+    "https://remember.thefoldwithin.earth/mrhavens/vitae.thefoldwithin.earth",
+    "https://codeberg.org/mrhavens/vitae.thefoldwithin.earth",
+    "https://gitea.com/mrhavens/vitae.thefoldwithin.earth",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "radicle": {
+    "rid": "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex",
+    "peer_id": "z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz"
+  },
+  "gpg_signatures": [
+
+  ]
+}
