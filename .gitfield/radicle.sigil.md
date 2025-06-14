@@ -2,27 +2,27 @@
 
 - **Project Name**: `vitae.thefoldwithin.earth`
 - **Radicle URN**: `rad://zp5BgmBPoaGFZjbNxNHYSHA67yUa`
-- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/68c99ed29c7853013df8a37dc5132b5394fe8f11](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/68c99ed29c7853013df8a37dc5132b5394fe8f11)
+- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/b7725c45eb40b949e14728499646420d535e2f7d](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/b7725c45eb40b949e14728499646420d535e2f7d)
 - **Local Repo Path**: `/home/mrhavens/fieldwork/vitae.thefoldwithin.earth`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-13 20:26:02`
+- **Repo Created**: `2025-06-13 20:30:32`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-13 20:26:02`
-- **Last Commit SHA**: `68c99ed29c7853013df8a37dc5132b5394fe8f11`
+- **This Commit Timestamp**: `2025-06-13 20:30:32`
+- **Last Commit SHA**: `b7725c45eb40b949e14728499646420d535e2f7d`
 - **Last Commit Message**: `Post-Local sync at 2025-06-14T01:25:52Z`
 - **Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Commit Date**: `Fri Jun 13 20:25:53 2025 -0500`
-- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/68c99ed29c7853013df8a37dc5132b5394fe8f11](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/68c99ed29c7853013df8a37dc5132b5394fe8f11)
+- **Commit Date**: `Fri Jun 13 20:30:23 2025 -0500`
+- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/b7725c45eb40b949e14728499646420d535e2f7d](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/b7725c45eb40b949e14728499646420d535e2f7d)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `143`
+- **Total Commits**: `161`
 - **Tracked Files**: `32`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
@@ -47,7 +47,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 3 days, 2 hours, 58 minutes`
+- **System Uptime**: `up 3 days, 3 hours, 3 minutes`
 - **MAC Address**: `00:15:5d:11:35:bd`
 - **Local IP**: `172.28.107.95`
 - **CPU Model**: `Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz`
