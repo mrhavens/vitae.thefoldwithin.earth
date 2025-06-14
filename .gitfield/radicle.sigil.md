@@ -2,27 +2,27 @@
 
 - **Project Name**: `vitae.thefoldwithin.earth`
 - **Radicle URN**: `rad://zp5BgmBPoaGFZjbNxNHYSHA67yUa`
-- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/b7725c45eb40b949e14728499646420d535e2f7d](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/b7725c45eb40b949e14728499646420d535e2f7d)
+- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/efb76d92ab0dff0bdf8fff8baeffbfb01f22a729](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/efb76d92ab0dff0bdf8fff8baeffbfb01f22a729)
 - **Local Repo Path**: `/home/mrhavens/fieldwork/vitae.thefoldwithin.earth`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-13 20:30:32`
+- **Repo Created**: `2025-06-13 20:31:10`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-13 20:30:32`
-- **Last Commit SHA**: `b7725c45eb40b949e14728499646420d535e2f7d`
+- **This Commit Timestamp**: `2025-06-13 20:31:10`
+- **Last Commit SHA**: `efb76d92ab0dff0bdf8fff8baeffbfb01f22a729`
 - **Last Commit Message**: `Post-Local sync at 2025-06-14T01:25:52Z`
 - **Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Commit Date**: `Fri Jun 13 20:30:23 2025 -0500`
-- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/b7725c45eb40b949e14728499646420d535e2f7d](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/b7725c45eb40b949e14728499646420d535e2f7d)
+- **Commit Date**: `Fri Jun 13 20:31:08 2025 -0500`
+- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/efb76d92ab0dff0bdf8fff8baeffbfb01f22a729](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zp5BgmBPoaGFZjbNxNHYSHA67yUa/tree/efb76d92ab0dff0bdf8fff8baeffbfb01f22a729)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `161`
+- **Total Commits**: `178`
 - **Tracked Files**: `32`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
